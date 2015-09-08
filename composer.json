@@ -1,0 +1,19 @@
+{
+  "name": "vrkansagara/CodeIgniter",
+  "description": "This is my skeleton application",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vallabh Kansagara",
+      "email": "vrkansagara@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.4",
+    "codeigniter/framework": "3.0.1"
+  },
+  "require-dev": {
+    "mikey179/vfsStream": "1.1.*"
+  }
+}
